@@ -2,7 +2,7 @@
 A powerful and user-friendly **firewall testing tool** with a sleek GUI that tests outbound firewall rules by scanning multiple connection types and ports.  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/s1317y/GUI.png" width="600">
+  <img src="https://github.com/s1317y/NetPhantom/blob/main/GUI.png" width="600">
 </p>
 
 ---
@@ -25,7 +25,7 @@ A powerful and user-friendly **firewall testing tool** with a sleek GUI that tes
 
 ### **🔹 1. Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/NetPhantom.git
+git clone https://github.com/s1317y/NetPhantom.git
 cd NetPhantom
 ```
 
@@ -72,7 +72,7 @@ python netphantom.py
 # **📌 Screenshots**  
 | **Firewall Test Running** | **Results Displayed** |
 |-------------------------|--------------------|
-| ![NetPhantom Running](https://user-images.githubusercontent.com/s1317y/netphantom-1.png) | ![NetPhantom Results](https://user-images.githubusercontent.com/s1317y/netphantom-2.png) |
+| ![NetPhantom Running](https://github.com/s1317y/NetPhantom/blob/main/Test_Running.png) | ![NetPhantom Results](https://github.com/s1317y/NetPhantom/blob/main/Test_Result.png) |
 
 ---
 
@@ -115,9 +115,7 @@ Want to improve NetPhantom? Feel free to **fork the repo, add features, and subm
 ---
 
 # **📡 Stay Connected**  
-💻 **GitHub:** [https://github.com/yourusername/NetPhantom](https://github.com/yourusername/NetPhantom)  
-🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)  
-✉️ **Email:** your.email@example.com  
+💻 **GitHub:** [https://github.com/s1317y/NetPhantom](https://github.com/s1317y/NetPhantom)    
 
 ---
 
