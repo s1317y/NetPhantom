@@ -2,7 +2,7 @@
 A powerful and user-friendly **firewall testing tool** with a sleek GUI that tests outbound firewall rules by scanning multiple connection types and ports.  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/netphantom-screenshot.png" width="600">
+  <img src="https://user-images.githubusercontent.com/s1317y/GUI.png" width="600">
 </p>
 
 ---
@@ -72,7 +72,7 @@ python netphantom.py
 # **📌 Screenshots**  
 | **Firewall Test Running** | **Results Displayed** |
 |-------------------------|--------------------|
-| ![NetPhantom Running](https://user-images.githubusercontent.com/yourusername/netphantom-1.png) | ![NetPhantom Results](https://user-images.githubusercontent.com/yourusername/netphantom-2.png) |
+| ![NetPhantom Running](https://user-images.githubusercontent.com/s1317y/netphantom-1.png) | ![NetPhantom Results](https://user-images.githubusercontent.com/s1317y/netphantom-2.png) |
 
 ---
 
